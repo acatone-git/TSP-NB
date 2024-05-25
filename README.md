@@ -6,8 +6,9 @@ New Bezels for the TrimUI Smart Pro!
 
 # Setup
 
-- Download the TSP-NB archive from the [release page](https://github.com/acatone-git/TSP-NB/releases)
-- Extract the archive & copy to the extracted folder to X:\RetroArch\.retroarch\overlay
+- Download & extract the TSP-NB archive from the [release page](https://github.com/acatone-git/TSP-NB/releases)
+- Copy to the extracted folder to X:\RetroArch\.retroarch\overlay
+  ![Install](https://github.com/acatone-git/TSP-NB/assets/67967964/aa1fd81a-e6a3-407b-b0f4-6856b56110d3)
 
 # Enable Bezels
 
