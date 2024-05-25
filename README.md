@@ -1,4 +1,4 @@
-# TSP-CustomBezels
+# TSP-NB
 
 Custom Bezels for the TrimUI Smart Pro!
 
