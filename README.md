@@ -7,4 +7,7 @@ Custom Bezels for the TrimUI Smart Pro!
 # Setup
 
 - Download the TSP-CB archive from the [release page](https://github.com/acatone-git/TSP-CustomBezels/releases)
-- Extract the archive & copy to the extracted folders to X:\RetroArch\.retroarch\
+- Extract the archive & copy to the extracted folder to X:\RetroArch\.retroarch\overlay
+
+# Enable Bezels
+
