@@ -27,6 +27,7 @@ New Bezels for the TrimUI Smart Pro!
 | Atari 2600 | a26_overlay.cfg / png |
 | FBA | fba_overlay.cfg / png |
 | PC Engine | pce_overlay.cfg / png |
+| GB / GBC | gbc_overlay.cfg / png |
 | NES / FC | fc_overlay.cfg / png |
 | SNES / SFC | sfc_overlay.cfg / png |
 | N64 | n64_overlay.cfg / png |
