@@ -36,3 +36,9 @@ New Bezels for the TrimUI Smart Pro!
 | Genesis / MegaDrive | md_overlay.cfg / png |
 | Dreamcast | dc_overlay.cfg / png | 
 | Playstation | psx_overlay.cfg / png |
+
+# Credits & Thanks
+
+- Ebay / Reddit (System Photos)
+- Inkscape : https://inkscape.org/
+- GIMP: https://www.gimp.org/
