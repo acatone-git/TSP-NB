@@ -4,7 +4,7 @@ A new Bezel Pack for the TrimUI Smart Pro!
 
 ![demo](https://github.com/acatone-git/TSP-NB/assets/67967964/7a5ba1ae-6588-47a7-93dc-82ff73f44c25)
 
-# Setup
+# Initial Setup
 
 - Download & extract the TSP-NB archive from the [release page](https://github.com/acatone-git/TSP-NB/releases)
 - Copy to the extracted folder to X:\RetroArch\.retroarch\overlay (as example below)
