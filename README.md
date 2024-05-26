@@ -1,4 +1,4 @@
-# TSP-NB
+# TSP-NewBezels
 
 New Bezels for the TrimUI Smart Pro!
 
