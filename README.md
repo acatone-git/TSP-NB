@@ -33,7 +33,7 @@ New Bezels for the TrimUI Smart Pro!
 | NES / FC | fc_overlay.cfg / png |
 | SNES / SFC | sfc_overlay.cfg / png |
 | N64 | n64_overlay.cfg / png |
-| MasterSystem | ms_overlay.cfg / png |
+| MasterSystem | sms_overlay.cfg / png |
 | Genesis / MegaDrive | md_overlay.cfg / png |
 | Dreamcast | dc_overlay.cfg / png | 
 | Playstation | psx_overlay.cfg / png |
