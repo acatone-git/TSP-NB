@@ -16,7 +16,7 @@ A new Bezel Pack for the TrimUI Smart Pro!
 - Open a game from any of the supported systems & press the "Menu" button
 - Select "Advanced Menu" > Scroll down & Select "On-Screen Overlay"
 - Select "Overlay Preset" & Pick the config file for the system you are currently setting up
-  - ex. PSX >> psx_overlay.cfg
+  - ex. PSX >> TSP-NB/psx_overlay.cfg
 - Return to the previous menu (Press B) & Select "Overrides"
 - Select "Save Content Directory Overrides" & Press the "Menu" key to exit the Advanced Menu
 - Repeat the previous steps for all the desired systems
