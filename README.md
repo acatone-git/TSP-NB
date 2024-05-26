@@ -17,7 +17,7 @@ New Bezels for the TrimUI Smart Pro!
 - Select "Advanced Menu" > Scroll down & Select "On-Screen Overlay"
 - Select "Overlay Preset" & Pick the config file for the system you are currently setting up (ex. PSX >> psx_overlay.cfg)
 - Return to the previous menu (Press B) & Select Overrides
-- Select "Save Core Overrides" & Press the "Menu" key to exit the Advanced Menu
+- Select "Save Content Directory Overrides" & Press the "Menu" key to exit the Advanced Menu
 - Repeat the previous steps for all the desired systems
 
 # Supported Systems
