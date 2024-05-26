@@ -1,6 +1,6 @@
 # TSP-NewBezels
 
-A new Bezel Pack for the TrimUI Smart Pro!
+A Bezel Pack for the TrimUI Smart Pro!
 
 ![demo](https://github.com/acatone-git/TSP-NB/assets/67967964/7a5ba1ae-6588-47a7-93dc-82ff73f44c25)
 
