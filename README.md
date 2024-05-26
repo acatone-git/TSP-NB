@@ -2,7 +2,7 @@
 
 New Bezels for the TrimUI Smart Pro!
 
-![Demo](https://github.com/acatone-git/TSP-CB/assets/67967964/cb96065d-d824-4af7-a644-335686e283b1)
+![demo](https://github.com/acatone-git/TSP-NB/assets/67967964/7a5ba1ae-6588-47a7-93dc-82ff73f44c25)
 
 # Setup
 
