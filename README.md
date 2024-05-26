@@ -39,6 +39,6 @@ New Bezels for the TrimUI Smart Pro!
 
 # Credits & Thanks
 
-- Ebay / Reddit (System Photos)
+- eBay / Reddit / Launchbox DB (Systems / Cartridges Photos)
 - Inkscape : https://inkscape.org/
 - GIMP: https://www.gimp.org/
