@@ -26,7 +26,10 @@ A Bezel Pack for the TrimUI Smart Pro!
 | System | Bezel | Alt. Design |
 |     :---:    |     :---:      |     :---:      |
 | Arcade | fba_overlay.cfg / png | fba_vrt_overlay.cfg / png |
+| NeoGeo Pocket | ngp_overlay.cfg / png | - |
+| WonderSwan | ws_overlay.cfg / png | - |
 | Atari 2600 | a26_overlay.cfg / png | - |
+| Atari Lynx | linx_overlay.cfg / png | - |
 | PC Engine | pce_overlay.cfg / png | - |
 | GB | gb_overlay.cfg / png | - |
 | GBC | gbc_overlay.cfg / png | - |
