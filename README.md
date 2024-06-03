@@ -23,7 +23,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 
 # Supported Systems
 
-| System | Bezel | Alt |
+| System | Bezel | Alt. Design |
 |     :---:    |     :---:      |     :---:      |
 | Arcade | fba_overlay.cfg / png | fba_vrt_overlay.cfg / png |
 | Atari 2600 | a26_overlay.cfg / png | - |
