@@ -40,7 +40,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 - Select "Advanced Menu" > Scroll down & Select "Shaders"
 - Pick "Load Preset" > "shaders_glsl" & the recommended shader from the table below
 
-| System | Recommended Shader | Alt. Recommended Shader |
+| System | Recommended Shader | Alt. Shader |
 |     :---:    |     :---:      |     :---:      |
 | Arcade \ Home Console | crt > zfast-crt | crt > fake-CRT-Geom-potato |
 | Handhelds | handhdeld > zfast-lcd | handhdeld > simpletex_lcd_720p |
