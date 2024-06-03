@@ -21,6 +21,19 @@ A Bezel Pack for the TrimUI Smart Pro!
 - Select "Save Content Directory Overrides" & Press the "Menu" key to exit the Advanced Menu
 - Repeat the previous steps for all the desired systems
 
+# Vertical Arcade Games Setup (Optional)
+
+- Open a vertical arcade game & press the "Menu" button
+- Select "Advanced Menu" > Scroll down & Select "Core Options"
+- Select "Vertical mode" & Pick "Tate alternate"
+- Return to the previous menu (Press B) & Select "Controls"
+- Select "Manage Remap Files" > "Load Remap File" > "roms_best_vertical"
+- Scroll down & Select "Save Game Remap File"
+- Change the overlay to the vertical design (fba_vrt_overlay.cfg) following the instructions above
+  - Select "Save Game Overrides" instead of "Save Content Directory Overrides"
+- Press the "Menu" key to exit the Advanced Menu
+- Repeat the previous steps for all your vertical games
+
 # Supported Systems
 
 | System | Bezel | Alt. Design |
