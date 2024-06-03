@@ -34,6 +34,13 @@ A Bezel Pack for the TrimUI Smart Pro!
 - Press the "Menu" key to exit the Advanced Menu
 - Repeat the previous steps for all your vertical games
 
+# Recommended Shaders (Optional)
+
+- Arcade \ Home Consoles
+  - zfast-crt \ fake-CRT-Geom-potato
+- Handhelds
+  - zfast-lcd \ simpletex_lcd_720p
+
 # Supported Systems
 
 | System | Bezel | Alt. Design |
