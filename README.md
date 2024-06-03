@@ -23,22 +23,22 @@ A Bezel Pack for the TrimUI Smart Pro!
 
 # Supported Systems
 
-| System | Bezel |
-|     :---:    |     :---:      |
-| Arcade | fba_overlay.cfg / png |
-| Atari 2600 | a26_overlay.cfg / png |
-| PC Engine | pce_overlay.cfg / png |
-| GB | gb_overlay.cfg / png |
-| GBC | gbc_overlay.cfg / png |
-| GBA | gba_overlay.cfg / png |
-| NES / FC | fc_overlay.cfg / png |
-| SNES / SFC | sfc_overlay.cfg / png |
-| N64 | n64_overlay.cfg / png |
-| Game Gear | gg_overlay.cfg / png |
-| MasterSystem | sms_overlay.cfg / png |
-| Genesis / MegaDrive | md_overlay.cfg / png |
-| Dreamcast | dc_overlay.cfg / png | 
-| Playstation | psx_overlay.cfg / png |
+| System | Bezel | Alt |
+|     :---:    |     :---:      |     :---:      |
+| Arcade | fba_overlay.cfg / png | fba_vrt_overlay.cfg / png |
+| Atari 2600 | a26_overlay.cfg / png | - |
+| PC Engine | pce_overlay.cfg / png | - |
+| GB | gb_overlay.cfg / png | - |
+| GBC | gbc_overlay.cfg / png | - |
+| GBA | gba_overlay.cfg / png |  gba_alt_overlay.cfg / png |
+| NES / FC | fc_overlay.cfg / png | fc_alt_overlay.cfg / png |
+| SNES / SFC | sfc_overlay.cfg / png | sfc_alt_overlay.cfg / png |
+| N64 | n64_overlay.cfg / png | n64_alt_overlay.cfg / png |
+| Game Gear | gg_overlay.cfg / png | - |
+| MasterSystem | sms_overlay.cfg / png | - |
+| Genesis / MegaDrive | md_overlay.cfg / png | md_alt_overlay.cfg / png |
+| Dreamcast | dc_overlay.cfg / png | - |
+| Playstation | psx_overlay.cfg / png | - |
 
 # Credits & Thanks
 
