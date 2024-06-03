@@ -40,6 +40,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 | Game Gear | gg_overlay.cfg / png | - |
 | MasterSystem | sms_overlay.cfg / png | - |
 | Genesis / MegaDrive | md_overlay.cfg / png | md_alt_overlay.cfg / png |
+| Saturn | ss_overlay.cfg / png | - |
 | Dreamcast | dc_overlay.cfg / png | - |
 | Playstation | psx_overlay.cfg / png | - |
 
