@@ -59,7 +59,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 | Atari 2600 | a26_overlay.cfg / png | - |
 | Atari Lynx | linx_overlay.cfg / png | - |
 | GB | gb_overlay.cfg / png | - |
-| GBC | gbc_overlay.cfg / png | - |
+| GBC | gbc_overlay.cfg / png | gbc_alt_overlay.cfg / png |
 | GBA | gba_overlay.cfg / png |  gba_alt_overlay.cfg / png |
 | NES / FC | fc_overlay.cfg / png | fc_alt_overlay.cfg / png |
 | SNES / SFC | sfc_overlay.cfg / png | sfc_alt_overlay.cfg / png |
