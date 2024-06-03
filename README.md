@@ -34,12 +34,19 @@ A Bezel Pack for the TrimUI Smart Pro!
 - Press the "Menu" key to exit the Advanced Menu
 - Repeat the previous steps for all your vertical games
 
-# Recommended Shaders (Optional)
+# Enable Recommended Shaders (Optional)
 
-- Arcade \ Home Consoles
-  - zfast-crt \ fake-CRT-Geom-potato
-- Handhelds
-  - zfast-lcd \ simpletex_lcd_720p
+- Open a game from any of the supported systems & press the "Menu" button
+- Select "Advanced Menu" > Scroll down & Select "Shaders"
+- Pick "Load Preset" > "shaders_glsl" & the recommended shader from the table below
+
+| System | Recommended Shader | Alt. Shader |
+|     :---:    |     :---:      |     :---:      |
+| Arcade \ Home Console | crt > zfast-crt | crt > fake-CRT-Geom-potato |
+| Handhelds | handhdeld > zfast-lcd | handhdeld > simpletex_lcd_720p |
+
+- Now Select "Save Preset" > "Save Core Preset"
+- Press the "Menu" key to exit the Advanced Menu
 
 # Supported Systems
 
