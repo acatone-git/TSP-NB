@@ -73,6 +73,6 @@ A Bezel Pack for the TrimUI Smart Pro!
 
 # Credits & Thanks
 
-- eBay / Reddit / Launchbox DB (Systems / Cartridges / Controllers Photos)
+- eBay / Reddit / Launchbox DB / Wikipedia (Systems / Cartridges / Controllers Photos & Logos)
 - Inkscape : https://inkscape.org/
 - GIMP: https://www.gimp.org/
