@@ -43,7 +43,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 | System | Recommended Shader | Alt. Shader |
 |     :---:    |     :---:      |     :---:      |
 | Arcade \ Home Console | crt > crt-caligari | crt > fake-CRT-Geom-potato |
-| Handhelds | handhdeld > simpletex_lcd_720p | handhdeld > zfast-lcd |
+| Handhelds | handhdeld > simpletex_lcd_720p | handhdeld > dot |
 
 - Now Select "Save Preset" > "Save Core Preset"
 - Press the "Menu" key to exit the Advanced Menu
