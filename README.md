@@ -51,7 +51,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 # Update Standalone Emulators (Optional)
 
 - Download / Replace the older standalone emulators (DrasticDS & PPSSPP) with the latest ones available: https://pixeldrain.com/u/26hTddHP
-  - This will automatically enable bezels on NDS
+  - This will automatically enable bezels on Drastic (NDS)
 
 # Supported Systems
 
