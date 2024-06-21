@@ -40,6 +40,10 @@ A Bezel Pack for the TrimUI Smart Pro!
 - Select "Advanced Menu" > Scroll down & Select "Shaders"
 - Pick "Load Preset" > "shaders_glsl" & the recommended shader from the table below
 
+# Update Standalone Emulators (Optional)
+
+- Download & Replace the older standalone emulators (DrasticDS & PPSSPP) with the latest ones available: https://pixeldrain.com/u/26hTddHP
+
 | System | Recommended Shader | Alt. Shader |
 |     :---:    |     :---:      |     :---:      |
 | Arcade \ Home Console | crt > fake-CRT-Geom-potato | crt > crt-caligari |
