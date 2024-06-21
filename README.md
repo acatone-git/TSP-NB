@@ -74,7 +74,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 | Pico8 | p8_overlay.cfg / png | - |
 | ColecoVision** | cv_overlay.cfg / png | - |
 
-** = User Request - Core not included in the official TrimUI firmware
+** = User Request - System / Core not included in the official TrimUI firmware
 
 # Credits & Thanks
 
