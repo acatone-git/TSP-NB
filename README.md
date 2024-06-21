@@ -72,7 +72,9 @@ A Bezel Pack for the TrimUI Smart Pro!
 | Dreamcast | dc_overlay.cfg / png | - |
 | Playstation | psx_overlay.cfg / png | - |
 | Pico8 | p8_overlay.cfg / png | - |
-| ColecoVision (User Request) | cv_overlay.cfg / png | - |
+| ColecoVision** | cv_overlay.cfg / png | - |
+
+** = User Request - Core not included in the official TrimUI firmware
 
 # Credits & Thanks
 
