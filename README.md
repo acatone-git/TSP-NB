@@ -1,4 +1,4 @@
-# TSP-NewBezels
+# TSP-NewBezels [V3]
 
 A Bezel Pack for the TrimUI Smart Pro!
 
