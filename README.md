@@ -57,6 +57,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 | WonderSwan | ws_overlay.cfg / png | - |
 | PC Engine | pce_overlay.cfg / png | - |
 | Atari 2600 | a26_overlay.cfg / png | - |
+| Atari 7800 | a78_overlay.cfg / png | - |
 | Atari Lynx | linx_overlay.cfg / png | - |
 | GB | gb_overlay.cfg / png | - |
 | GBC | gbc_overlay.cfg / png | gbc_alt_overlay.cfg / png |
@@ -70,6 +71,8 @@ A Bezel Pack for the TrimUI Smart Pro!
 | Saturn | ss_overlay.cfg / png | - |
 | Dreamcast | dc_overlay.cfg / png | - |
 | Playstation | psx_overlay.cfg / png | - |
+| Pico8 | p8_overlay.cfg / png | - |
+| ColecoVision (User Request) | cv_overlay.cfg / png | - |
 
 # Credits & Thanks
 
