@@ -78,7 +78,7 @@ A Bezel Pack for the TrimUI Smart Pro!
 | Playstation | psx_overlay.cfg / png | - |
 | Pico8 | p8_overlay.cfg / png | - |
 | ColecoVision* | cv_overlay.cfg / png | - |
-| NDS | Use New Standalone Emulator Pack | - |
+| NDS | Update Standalone Emulator | - |
 
 * = User Request - System / Core not included in the official TrimUI firmware
 
